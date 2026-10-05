@@ -19,9 +19,9 @@ all_declarations_affirmed: true # Must be true
 
 ## AI Disclosure: Describe how you used AI in authoring this notebook (100 words)
 
-## References: Provide the URLs of all code sources that you used in authoring this notebook
+## References: Provide the URLs of any code sources that you used in authoring this notebook (optional)
 
-## Feedback (If you answered `true` to `had_challenges_working_with_sample_service_data` please provide feedback here!)
+## Commercial Data: How could your notebook make use of the commercial datasets on the EODH and how would you adapt the notebook to do this? (100 words)
 
 ## Declarations
 By submitting this notebook:
@@ -31,4 +31,4 @@ By submitting this notebook:
 - I/we confirm that the code submitted may be published under the MIT license.
 - I/we agree for the provided email address to be shared with the prize awarding organisations in the case that my/our notebook is a winning selection.
 
-## Notes (optional)
+## Additional Notes (optional)
